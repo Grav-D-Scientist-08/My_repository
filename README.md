@@ -4,3 +4,8 @@ setep:
 - 1. requirements.txt
 - 2. setup.py
 - 3. pip install -r requirements.txt
+steps 
+git branch
+
+creating  
+git checkout -b name_of_branch
