@@ -9,6 +9,8 @@ setep:
 - steps to setup branch
   - git branch
 
-- creating  a new branch
-  - git checkout -b name_of_branch
+creating  
+git checkout -b name_of_branch
 
+- when pushing to a new branch write:
+ git push origin name_of_branch
